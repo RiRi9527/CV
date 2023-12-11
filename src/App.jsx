@@ -142,14 +142,14 @@ const App = () => {
               </p>
             </div>
             <h2 className="text-sm font-bold my-1 text-gray-500">
-              More Portfolio please vist my website
+              Please visit my website for more portfolios
             </h2>
           </div>
           <div>
             <div className="border-b-2 py-1 mb-4 border-solid border-grvy">
-              <h2 className="text-xl mt-10">CAREER OBJECTIVE</h2>
+              <h2 className="text-xl mt-6">CAREER OBJECTIVE</h2>
             </div>
-            <p className=" mb-7 text-sm">
+            <p className="text-sm">
               Highly motivated individual with experience in providing
               exceptional customer service. Adept at resolving customer
               complaints in a timely and professional manner. Proven ability to
