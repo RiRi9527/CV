@@ -176,17 +176,17 @@ const App = () => {
           <div className=" border-b-2 py-1 mb-4 border-solid border-gray">
             <h2 className="text-xl">EDUCATION</h2>
           </div>
-          <div className="mb-4">
+          <div className="mb-2">
             <h2 className="text-sm text-gray-400 my-1">May 2020</h2>
             <h2 className="text-sm font-bold my-1">
-              Bachelor of Arts in Criminal justice & Business{" "}
+              Bachelor of Arts in Business & Criminal justice
               <span className="text-gray-400 ml-3">GPA 3.64</span>
             </h2>
             <h2 className="text-sm text-gray-400 my-1">
               Saginaw Valley State University
             </h2>
           </div>
-          <div className="mb-5">
+          <div>
             <h2 className="text-sm text-gray-400 my-1">May 2022</h2>
             <h2 className="text-sm font-bold my-1">
               Master of Science in Information Systems
