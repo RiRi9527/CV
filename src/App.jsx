@@ -100,11 +100,10 @@ const App = () => {
                 Node.js) stack. It's a powerful application designed to help
                 users manage their tasks and schedules effortlessly.
               </h2>
+              <span className="text-gray-600">Front-end Introduction:</span>{" "}
               <p className="inline-block text-sm text-gray-300 font-bold my-1 ">
-                <span className="text-gray-600">Front-end Introduction:</span>{" "}
                 https://github.com/RiRi9527/mern-ezcheck-app-frontend
               </p>
-
               <ul className="list-disc px-5 text-sm text-gray-600 my-1 mb-5">
                 <li>
                   Utilizes <span className="font-bold"> Tailwind CSS </span>for
@@ -126,11 +125,10 @@ const App = () => {
                   enabling users to create, manage, and delete tasks.
                 </li>
               </ul>
-
               <p></p>
+              <span className="text-gray-600">Back-End Introduction:</span>{" "}
               <p className="inline-block text-sm text-gray-300 font-bold my-1 ">
-                <span className="text-gray-600">Back-End Introduction:</span>{" "}
-                https://github.com/RiRi9527/mern-ezcheck-app-frontend
+                https://github.com/RiRi9527/mern-ezcheck-app-backend
               </p>
               <ul className="list-disc px-5 text-sm text-gray-600 my-1 mb-5">
                 <li>
